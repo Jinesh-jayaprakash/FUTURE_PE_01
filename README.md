@@ -7,10 +7,10 @@
 ##  Task 1 — AI Website Copy Generator for Local Businesses
 
 ## Business Chosen
-**Name:** Style Symphony
-**Type:** Premium Salon & Bridal Studio
-**Location:** Chennai, Tamil Nadu
-**Speciality:** Complete Bridal & Groom Makeup Package (Start to Finish)
+-**Name:** Style Symphony
+-**Type:** Premium Salon & Bridal Studio
+-**Location:** Chennai, Tamil Nadu
+-**Speciality:** Complete Bridal & Groom Makeup Package (Start to Finish)
 
 ---
 
