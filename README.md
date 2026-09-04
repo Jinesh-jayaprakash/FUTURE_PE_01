@@ -34,3 +34,20 @@ Tool Used
 - Services Page (Bridal Package)
 - CTA Sections (3 conversion-focused CTAs)
 - Tone Variations (Formal, Friendly, Luxury)
+
+
+
+## Task 2 — AI Content Marketing using UGC Ads
+
+**Business:** Style Symphony — Premium Salon & Bridal Studio, Chennai  
+**Platform:** Instagram Reels  
+
+### Prompts Used
+- Role-based prompts for UGC Ad scripting
+- Audience-specific tone adaptation (bride, groom, general)
+- Hook-focused prompts for scroll-stopping content
+
+### Deliverables
+- 3 UGC Ad Scripts (Bridal, General Salon, Groom)
+- 5 Scroll-Stopping Hooks
+- 3 Instagram Reels Captions with Hashtags
