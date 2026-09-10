@@ -21,11 +21,7 @@ All content was generated using **role-based structured prompts**:
 - Specified exact output format (Hero, About, Services, CTA)
 - Adapted tone for different audiences (bride, groom, general)
 
----
 
-## 
-Tool Used
-- **Claude AI** by Anthropic
 
 ---
 
